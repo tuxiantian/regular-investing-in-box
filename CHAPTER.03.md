@@ -18,35 +18,35 @@ https://b.watch
 
 > 在交易市场这个神奇的地方，**普通人唯一靠谱的投资方式只有定投** —— 切记！
 
-由于 BOX 这个地球上第一个区块链 ETF 刚刚成立（2019 年 7 月 3 日，所谓 “币圈双十一” 的 “七三韭菜节”）其数据还不够久，所以无法拿来当作示例去解释定投这个普通人唯一靠谱的投资方式。
+由于 [BOX](https://b.watch) 这个地球上第一个区块链 ETF 刚刚成立（2019 年 7 月 3 日，所谓 “币圈双十一” 的 “七三韭菜节”）其数据还不够久，所以无法拿来当作示例去解释定投这个普通人唯一靠谱的投资方式。
 
-龙门基金（https://longmen.fund）的前身是比特基金，由李笑来于 2013 年创立，2018 年清算，部份投资人决定在五年之后继续走下去，于是，就创建了龙门基金这个 ETF 产品。龙门基金现在并不对外开放，当前只有符合资质的少数被邀请的人可以进行投资……但，由于它有长期公开透明的数据，所以，可以在这里用来作为定投标的的例子。
+[龙门基金](http://www.longmen.fund/)的前身是比特基金，由李笑来于 2013 年创立，2018 年清算，部分投资人决定在五年之后继续走下去，于是，就创建了龙门基金这个 ETF 产品。龙门基金现在并不对外开放，当前只有符合资质的少数被邀请的人可以进行投资……但，由于它有长期公开透明的数据，所以，可以在这里用来作为定投标的的例子。
 
 以下是龙门基金的网站 2019 年 7 月初的截图：
 
-![longmen.web.snapshot.tb](/Users/joker/github/xiaolai/regular-investing-in-box/images/longmen.web.snapshot.tb.png)
+![longmen.web.snapshot.tb](images/longmen.web.snapshot.tb.png)
 
 为了使用这个数据作为定投的例子，我们只取每个月的数据看一看：
 
-![longmen.smiling.curve.tb](/Users/joker/github/xiaolai/regular-investing-in-box/images/longmen.smiling.curve.tb.png)
+![longmen.smiling.curve.tb](images/longmen.smiling.curve.tb.png)
 
 假设你从 2018 年 9 月开始，每月定投龙门资本 1,000 美元，一直定投了 11 个月…… 那么，数据大抵如下：
 
-![longmen.data](/Users/joker/github/xiaolai/regular-investing-in-box/images/longmen.data.tb.png)
+![longmen.data](images/longmen.data.tb.png)
 
 也就是说，在每月定投的情况下，你会错过最高点，2019 年 6 月 25 日的 \$92 美金；你也会错过最低点，2018 年 12 月 15 日的 \$23…… 但，最终你的均价为 \$54，而当前价格差不多 \$85 左右。11 个月后，你累计投资了 \$11,000；而你现在的账面价值是 \$19,141.44 —— 即便这是按照你最后一次定投时的价格，\$82 —— 竟然还比上一个月跌了 \$1…… 然而，你的收益率已经足足有 **74.01%** 了！
 
 看以下配图，你能更清楚地看到你所投入的本金和当前收益的关系：
 
-![longmen.regular.investing.tb](/Users/joker/github/xiaolai/regular-investing-in-box/images/longmen.regular.investing.tb.png)
+![longmen.regular.investing.tb](images/longmen.regular.investing.tb.png)
 
 在以上龙门基金的 11 个月的数据之中，价格曲线画出了一个迷人的 “微笑曲线”。
 
-![smilingCurve](/Users/joker/github/xiaolai/regular-investing-in-box/images/smilingCurve.png)
+![smilingCurve](images/smilingCurve.png)
 
 市场上采取定投策略的人永远是少数，而上面这个所谓的 “**微笑曲线**”，对并未采取定投策略的人来说，很可能是截然相反的 “**猥琐曲线**”。那绝对不是一张善意的笑脸，而是一张你在蝙蝠侠故事里见到过的那个小丑的邪恶的笑脸 —— 他的嘴里还在阴森地嘟囔着：“Why so serious?”
 
-![jokersFace](/Users/joker/github/xiaolai/regular-investing-in-box/images/jokersFace.png)
+![jokersFace](images/jokersFace.png)
 
 现在再看看数据，假设，你的投资方式是绝大多数人爱干的那种，所谓的“一把梭”…… 那么，你在 2018 年的 9 月份一把梭进去 \$11,000 美元，然后拿到 11 个月后，倒也没有赔，因为你会有大约 **10.81%** 的收益！—— 虽然比 **74.01%** 差远了，可毕竟没有赔啊！
 
@@ -58,7 +58,7 @@ https://b.watch
 
 如果你是采用定投方式的投资人，那么你所身处的完全是另外一个世界 —— 虽然它们看起来一模一样，虽然除了你之外绝大多数人根本无法体会你的感受，因为所有的感受都是截然相反的。
 
-**定投是使用自己的长期去支持的行为。**所以，既然赌上了自己的未来，那么，在选择的时候就经过了深思熟虑。于是，第一次买入之后产生的价格下跌，对你来说每一次下跌都是降低均价的时机。一把梭的人在那里体验着寒冬，瑟瑟发抖，你却截然相反，你神清气爽，你为你又增加了更多的低价筹码而倍感幸福……
+**定投是使用自己的长期去支持的行为。** 所以，既然赌上了自己的未来，那么，在选择的时候就经过了深思熟虑。于是，第一次买入之后产生的价格下跌，对你来说每一次下跌都是降低均价的时机。一把梭的人在那里体验着寒冬，瑟瑟发抖，你却截然相反，你神清气爽，你为你又增加了更多的低价筹码而倍感幸福……
 
 一把梭的人忍受不了太久的痛苦 —— 事实上，任何人都无法长期承受痛苦。这跟所谓的“坚强”完全没有任何关系。从另外一个角度来看，这也不是愚笨，这只是愚昧。在一个月的痛苦之后，或者两个月、或者三个月，甚至在事后看来眼看就要挺过去了的时候，即，在第六个月的时候（或者之前），很多人会基于种种原因离场 —— 交易市场上把这种行为称为“割肉”…… 你看，韭菜都是自己割自己的，并且割下来的都是血淋淋的肉。
 
